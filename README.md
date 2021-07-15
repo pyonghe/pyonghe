@@ -39,8 +39,9 @@
 
 ### Github Stats
 ---
-![Yyhh92's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyhh91&show_icons=true&hide_border=true&theme=vue-dark)
+![Yyhh92's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyhh91&show_icons=true&hide_border=true&theme=vue-dark)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyhh91&hide=html&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Variables of my profile -->
 [linkedin]:https://www.linkedin.com/in/pangyonghe/
