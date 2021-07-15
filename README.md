@@ -1,5 +1,5 @@
 ### Hi there, I am Yong He 👋
-[![Profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pangyonghe/)
+[![Profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pangyonghe/)
 
 - 🔭 I’m currently working as a cyber security consultant specialised in Penetration Testing
 - 🌱 I’m currently learning about Red Teaming / Payload development / Vulnerability Research
