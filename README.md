@@ -4,8 +4,8 @@
 ### Cyber Security Enthusiast, Consultant and Tech gadget lover
 - 🔭 I’m currently working as a cyber security consultant specialised in Penetration Testing
 - 🌱 I’m currently learning about Red Teaming / Payload development / Vulnerability Research
-- 🌟 Look out this space for more cyber related tools :)
-- 🥅 2021 Goals: Get OSEP certified
+- 🌟 Look out for more upcoming cyber related tools in this space
+- 🥅 2021 Goals: Get OSEP certified, contribute to more open source projects
 
 ### Languages and Tools
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
