@@ -1,5 +1,6 @@
 ### Hi there, I am Yong He 👋
-[![Profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white%22%20alt=%22LinkedIn%22)][linkedin]
+[![github follow](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)][Github]
 
 ### Cyber Security Enthusiast, Consultant and Tech gadget lover
 - 🔭 I’m currently working as a cyber security consultant specialised in Penetration Testing
@@ -43,6 +44,7 @@
 
 <!-- Variables of my profile -->
 [linkedin]:https://www.linkedin.com/in/pangyonghe/
+[Github]:https://github.com/yyhh91/
 [website]:https://asd.com
 
 <!--
