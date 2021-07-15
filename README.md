@@ -9,6 +9,7 @@
 - 🥅 2021 Goals: Get OSEP certified, contribute to more open source projects
 
 ### Languages and Tools
+---
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Java" width="26px" src="https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png" />
@@ -25,7 +26,7 @@
 <br>
 
 ### Certifications
-
+---
 [<img align="left" alt="OSCP" width="55px" src="https://images.credly.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />](https://www.credly.com/badges/12ffb15e-14e0-484d-bbfd-f19dfc4d9d85?source=linked_in_profile)
 [<img align="left" alt="OSWE" width="55px" src="https://images.credly.com/images/c8c413ce-fce6-4b61-89e6-6a1b9f1e358a/AWAE-OSWE-badge.png" />](https://www.credly.com/badges/bad6851a-db7b-4961-834f-3be5123336cb?source=linked_in_profile)
 [<img align="left" alt="GPEN" width="55px" src="https://images.credly.com/images/3951004e-93d8-4d99-8ba7-441b7b709454/Template_GPEN.png" />](https://www.credly.com/badges/b8aafc2b-52a7-4e10-a818-81ce46b7ea38/linked_in_profile)
