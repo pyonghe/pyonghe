@@ -37,9 +37,7 @@
 <br>
 
 ---
-
-<img align="left" alt="yyhh91's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yyhh91&show_icons=true&hide_border=true&themegruvbox" />  
-
+![Yyhh92's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyhh91&show_icons=true&hide_border=true&theme=vue-dark)
 
 
 <!-- Variables of my profile -->
