@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Get OSEP certified, contribute to more open source projects
 - 🥅 2022 Goals: Get OSED/OSCE3 certified, Red team operator certified
 
-### Languages and Tools
+### 🛠 Languages and Tools
 ---
 <img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -26,7 +26,7 @@
 <br>
 <br>
 
-### Certifications
+### 👨‍🎓 Certifications
 ---
 [<img align="left" alt="OSCP" width="55px" src="https://images.credly.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />](https://www.credly.com/badges/12ffb15e-14e0-484d-bbfd-f19dfc4d9d85?source=linked_in_profile)
 [<img align="left" alt="OSWE" width="55px" src="https://images.credly.com/images/c8c413ce-fce6-4b61-89e6-6a1b9f1e358a/AWAE-OSWE-badge.png" />](https://www.credly.com/badges/bad6851a-db7b-4961-834f-3be5123336cb?source=linked_in_profile)
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-### Github Stats
+### ⛏ Github Stats
 ---
 
 <p align="center">
