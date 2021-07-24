@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning about Red Teaming / Payload development / Vulnerability Research
 - 🌟 Look out for more upcoming cyber related tools in this space
 - 🥅 2021 Goals: Get OSEP certified, contribute to more open source projects
+- 🥅 2022 Goals: Get OSED/OSCE3 certified, Red team operator certified
 
 ### Languages and Tools
 ---
