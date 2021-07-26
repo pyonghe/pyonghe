@@ -8,7 +8,8 @@
 - 🌟 Look out for more upcoming cyber related tools in this space
 - 🥅 2021 Goals: Get OSEP certified, contribute to more open source projects
 - 🥅 2022 Goals: Get OSED/OSCE3 certified, Red team operator certified
-
+<!-- Add in spotify badge -->
+<!--https://github.com/pyonghe/spotify-github-profile -->
 ### 🛠 Languages and Tools
 ---
 <img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
