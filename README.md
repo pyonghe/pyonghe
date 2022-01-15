@@ -7,7 +7,6 @@
 - 🔭 I’m currently working as a cyber security consultant specialised in Penetration Testing
 - 🌱 I’m currently learning about Red Teaming / Payload development / Vulnerability Research
 - 🌟 Look out for more upcoming cyber related tools in this space
-- 🥅 2021 Goals: Get OSEP certified, contribute to more open source projects
 - 🥅 2022 Goals: Get OSED/OSCE3 certified, Red team operator certified
 <!-- Add in spotify badge -->
 <!--https://github.com/pyonghe/spotify-github-profile -->
@@ -30,6 +29,7 @@
 
 ### 👨‍🎓 Certifications
 ---
+[<img align="left" alt="OSEP" width="55px" src="https://images.credly.com/size/340x340/images/5a92a708-1726-41ff-9588-387e3d545e52/ETBD-PEN-300-OSEP-badge.png" />](https://www.credly.com/badges/f533d4f4-a748-4183-b457-1d13005d1820/public_url)
 [<img align="left" alt="OSCP" width="55px" src="https://images.credly.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" />](https://www.credly.com/badges/12ffb15e-14e0-484d-bbfd-f19dfc4d9d85?source=linked_in_profile)
 [<img align="left" alt="OSWE" width="55px" src="https://images.credly.com/images/c8c413ce-fce6-4b61-89e6-6a1b9f1e358a/AWAE-OSWE-badge.png" />](https://www.credly.com/badges/bad6851a-db7b-4961-834f-3be5123336cb?source=linked_in_profile)
 [<img align="left" alt="GPEN" width="55px" src="https://images.credly.com/images/3951004e-93d8-4d99-8ba7-441b7b709454/Template_GPEN.png" />](https://www.credly.com/badges/b8aafc2b-52a7-4e10-a818-81ce46b7ea38/linked_in_profile)
