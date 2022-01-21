@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a cyber security consultant specialised in Penetration Testing
 - 🌱 I’m currently learning about Red Teaming / Payload development / Vulnerability Research
 - 🌟 Look out for more upcoming cyber related tools in this space
-- 🥅 2022 Goals: Get OSED/OSCE3 certified, Red team operator certified
+- 🥅 2022 Goals: Get OSED/OSCE3 certified, Red team operator certified, C# C2 developer
 <!-- Add in spotify badge -->
 <!--https://github.com/pyonghe/spotify-github-profile -->
 ### 🛠 Languages and Tools
