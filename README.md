@@ -29,9 +29,9 @@
 
 ### 👨‍🎓 Certifications
 ---
-[<img align="left" alt="OSEP" width="55px" src="https://images.credly.com/size/340x340/images/5a92a708-1726-41ff-9588-387e3d545e52/ETBD-PEN-300-OSEP-badge.png" />](https://www.credly.com/badges/f533d4f4-a748-4183-b457-1d13005d1820/public_url)
+[<img align="left" alt="OSEP" width="55px" src="https://images.credly.com/size/340x340/images/ebefd276-7f47-4aa8-b1d8-4a13636e4851/image.png" />](https://www.credly.com/badges/f533d4f4-a748-4183-b457-1d13005d1820/public_url)
 [<img align="left" alt="OSCP" width="55px" src="https://images.credly.com/size/340x340/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" />](https://www.credly.com/badges/12ffb15e-14e0-484d-bbfd-f19dfc4d9d85?source=linked_in_profile)
-[<img align="left" alt="OSWE" width="55px" src="https://images.credly.com/images/c8c413ce-fce6-4b61-89e6-6a1b9f1e358a/AWAE-OSWE-badge.png" />](https://www.credly.com/badges/bad6851a-db7b-4961-834f-3be5123336cb?source=linked_in_profile)
+[<img align="left" alt="OSWE" width="55px" src="https://images.credly.com/size/340x340/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" />](https://www.credly.com/badges/bad6851a-db7b-4961-834f-3be5123336cb?source=linked_in_profile)
 [<img align="left" alt="GPEN" width="55px" src="https://images.credly.com/images/3951004e-93d8-4d99-8ba7-441b7b709454/Template_GPEN.png" />](https://www.credly.com/badges/b8aafc2b-52a7-4e10-a818-81ce46b7ea38/linked_in_profile)
 <img align="left" alt="CREST" width="55px" src="https://www.crest-approved.org/wp-content/themes/crest-2018-wp-theme/images/logo.svg"/>
 <img align="left" alt="CEH" width="55px" src="https://ciso.eccouncil.org/wp-content/uploads/2018/01/CEH-logo.png"/>
